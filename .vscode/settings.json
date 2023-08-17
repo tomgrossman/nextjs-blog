@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        ".env.*": "properties"
+    },
+    "cSpell.words": [
+        "Appsmith",
+        "guardz",
+        "nextjs",
+        "opentelemetry",
+        "Passwordless",
+        "REGRANT",
+        "SIGNUP",
+        "upserted"
+    ],
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.format.enable": true,
+}
